@@ -4,7 +4,7 @@ import click
 from bs4 import BeautifulSoup
 
 from parser import ChosunParser
-
+ 
 
 class Crawler:
     def __init__(self):
